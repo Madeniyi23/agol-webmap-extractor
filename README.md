@@ -117,6 +117,17 @@ The script creates:
 A notebook-friendly selectable export workflow is included in `examples/` for users who prefer working in ArcGIS Pro notebooks.
 
 ---
+## Example Output
+
+Below shows a sample execution exporting multiple layers from an ArcGIS Online web map into a File Geodatabase:
+
+> ✔ 12 layers exported successfully  
+> ✔ 0 failures  
+> ✔ Automated ArcPy workflow  
+
+![Sample Output](images/sample_output.png)
+
+---
 
 ## Author
 **Muyiwa Adeniyi**  
