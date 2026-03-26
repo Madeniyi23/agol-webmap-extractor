@@ -5,6 +5,10 @@ AGOL Web Map Extractor is a Python tool that exports extractable feature layers 
 
 It is designed for GIS analysts and administrators who need a faster, more repeatable way to back up or reuse web map data.
 
+Enter Portal URL: https://www.arcgis.com
+Enter Web Map ID: xxxxxxxx
+Output Folder: C:\GIS\Exports
+
 ---
 
 ## Why this project matters
